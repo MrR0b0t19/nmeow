@@ -4,7 +4,7 @@ Script creado con librerias de nmap y openIA, para entender mejor la salida de n
 
 # Puntos a considerar
 
-Debemos tener en cuenta que este script fue creado con la idea de ayudar a nuevos investigadores se esta usando de base para un script de automatizacion de ataques de mano del minino de electronics cats.
+Debemos tener en cuenta que este script fue creado con la idea de ayudar a nuevos investigadores, se esta usando de base para un script de automatizacion de ataques de la mano del minino de electronics cats.
 
 # Uso
 
@@ -18,7 +18,7 @@ python3 nmeow.py
 
 En automatico el script solicita la informacion requerida para ejecutarlo, obteniendo en cuestion de minutos una respuesta positiva y certera del script.
 
-no olviden crear un .env con su api de openai si no no funcionara 
+no olviden crear un .env con su api de openai si no, no funcionara 
 
 # Ejemplo
 
