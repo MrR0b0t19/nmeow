@@ -10,7 +10,7 @@ Debemos tener en cuenta que este script fue creado con la idea de ayudar a nuevo
 
 Su uso es muy sencillo primero instalamos los requierements.txt, con el siguiente comando:
 
-pip install -r requierements.txt
+pip install -r requirements.txt
 
 Despues ejecutamos nuestra herramienta con:
 
