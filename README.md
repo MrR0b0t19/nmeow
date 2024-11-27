@@ -18,6 +18,8 @@ python3 nmeow.py
 
 En automatico el script solicita la informacion requerida para ejecutarlo, obteniendo en cuestion de minutos una respuesta positiva y certera del script.
 
+no olviden crear un .env con su api de openai si no no funcionara 
+
 # Ejemplo
 
 ![photo_5057596421271825925_y](https://github.com/user-attachments/assets/2f4c5bb8-a6f3-4016-940a-6d25f5351145)
