@@ -111,7 +111,7 @@ if __name__ == "__main__":
     table.add_column("Servcio", justify="left", style="bold")
     table.add_column("Protocolo", justify="left", style="bold cyan")
     table.add_column("Versión", justify="left", style="bold yellow")
-    table.add_column("Recomendaciones", justify="left", style="bold yellow")
+    #table.add_column("Recomendaciones", justify="left", style="bold yellow")
 
     for host, protocols in network_d.items():
         for proto, ports in protocols.items():
