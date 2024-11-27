@@ -28,4 +28,4 @@ no olviden crear un .env con su api de openai si no no funcionara
 
 Ustedes pueden mejorar el prompt del LLM, tambien cambiar el modelo 
 
-## Codigo echo para investigadores nuevos.
+## Codigo hecho para investigadores nuevos. xD
