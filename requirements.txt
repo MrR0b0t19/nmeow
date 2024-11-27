@@ -1,0 +1,5 @@
+openia
+nmap 
+tqdm
+dotenv
+rich
